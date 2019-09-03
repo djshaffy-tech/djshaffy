@@ -1,0 +1,21 @@
+body {
+    color: ;
+    background-color:greenyellow;
+}
+h3 {
+    font-size: 16pt;
+    border-style: groove;
+    background-color: navy;
+}
+
+.employment-head {
+    background-color: yellow;
+    padding: 10px;
+    border-style: solid;
+}
+
+.Certification-head {
+    background-color: green;
+    padding: 10px;
+    border-style: groove;
+}
